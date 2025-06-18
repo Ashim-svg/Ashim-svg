@@ -3,6 +3,8 @@
 # 💫 About Me  
 Aspiring Full Stack Developer passionate about building sleek web apps with Python, React, and Django — when I’m not coding, I’m hiking or brewing coffee.
 
+<img src="https://github.com/Ashim-svg/Ashim-svg/blob/main/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="450"/>
+
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashim-khanal)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asimkhanal595@gmail.com)
